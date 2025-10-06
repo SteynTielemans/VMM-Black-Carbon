@@ -4,6 +4,6 @@ IoT Project Vlaamse Milieu Maatschappij Black Carbon sensor
 
 ## Medewerkers
 
-Wim Boucquaert
-Jelle Van Echelpoel
-Steyn Tielemans
+- Wim Boucquaert
+- Jelle Van Echelpoel
+- Steyn Tielemans
